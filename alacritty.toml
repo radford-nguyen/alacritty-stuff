@@ -1,0 +1,10 @@
+[general]
+  import = [
+    "base.toml",
+    "font.toml",
+
+    # external theme imported here:
+    "~/.config/alacritty-theme/themes/everforest_dark.toml",
+  ]
+
+  live_config_reload = true
