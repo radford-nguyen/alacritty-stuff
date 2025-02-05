@@ -2,6 +2,7 @@
   import = [
     "base.toml",
     "font.toml",
+    "kbindings.toml",
 
     # external theme imported here:
     "~/.config/alacritty-theme/themes/everforest_dark.toml",
