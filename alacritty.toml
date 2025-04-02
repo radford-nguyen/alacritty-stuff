@@ -1,7 +1,10 @@
 [general]
   import = [
     "base.toml",
-    "font.toml",
+    # "font.toml",
+    # "font-jetbrains.toml",
+    "font-roboto.toml",
+    # "font-recmonocasual.toml",
     "kbindings.toml",
 
     # external theme imported here:

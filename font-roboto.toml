@@ -1,12 +1,12 @@
 [font]
   # The normal (roman) font face to use.
   # Style can be specified to pick a specific face.
-  normal.family = "Cascadia Mono"
-  normal.style = "Regular"
-  bold.family = "Cascadia Mono"
+  normal.family = "RobotoMono Nerd Font"
+  normal.style = "Medium"
+  bold.family = "RobotoMono Nerd Font"
   bold.style = "Medium"
-  italic.family = "Cascadia Mono"
-  italic.style = "Light Italic"
+  italic.family = "RobotoMono Nerd Font"
+  italic.style = "Italic"
 
   size = 12.0
 
