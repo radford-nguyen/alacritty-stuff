@@ -1,12 +1,18 @@
 [font]
   # The normal (roman) font face to use.
   # Style can be specified to pick a specific face.
-  normal.family = "Cascadia Mono"
-  normal.style = "Regular"
-  bold.family = "Cascadia Mono"
+# normal.family = "Cascadia Mono"
+# normal.style = "Regular"
+# bold.family = "Cascadia Mono"
+# bold.style = "Medium"
+# italic.family = "Cascadia Mono"
+# italic.style = "Light Italic"
+  normal.family = "JetBrains Mono NL"
+  normal.style = "Medium"
+  bold.family = "JetBrains Mono NL"
   bold.style = "Medium"
-  italic.family = "Cascadia Mono"
-  italic.style = "Light Italic"
+  italic.family = "JetBrains Mono NL"
+  italic.style = "Italic"
 
   size = 12.0
 
@@ -47,7 +53,7 @@ draw_bold_text_with_bright_colors = true
   #   - ▇ Block
   #   - _ Underline
   #   - | Beam
-  style.shape = "Beam"
+  style.shape = "Block"
   style.blinking = "Never"
   vi_mode_style.shape = "Block"
   vi_mode_style.blinking = "Never"
