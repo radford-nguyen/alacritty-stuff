@@ -281,5 +281,5 @@
 #
 # Entries in shell.args are passed unmodified as arguments to the shell.
 [terminal]
-  shell = { program = "wsl", args = [] }
+  shell = { program = "wsl", args = ["~"] }
 
